@@ -8,3 +8,4 @@ A plugin to add Auctions capability to improve your product traction.
 
 ##### v1.0 (Feb '24)
 * initial revision
+* creaet feature-dev branch
